@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/shane/Documents/EAGLE/projects/ATRchager/atrc.sch at 15/11/2019 17:42
+
+Qty Value        Device                  Package       Parts            Description                                                                                                     MF MPN OC_FARNELL OC_NEWARK PROD_ID    SF_ID     VALUE
+4                CONN_02                 1X02          J4, J5, J6, J7   Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                                                       
+4                CONN_04PTH              1X04          J8, J9, J10, J11 Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                             CONN-09696                
+3                CONN_07                 1X07          J1, J2, J3       Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                                                       
+1   16MHz        CRYSTAL-16MHZPTH-HC49US HC49US        Y1               16MHz Crystal                                                                                                                               XTAL-08181 COM-00536 16MHz
+2   ATTINY85-20P ATTINY85-20P            PDIP08_300MIL U1, U3           ATMEL ATtiny 85                                                                                                                                                       
+1   G6C-1117P    G6C-1117P               G6C-1117P     K1               RELAY                                                                                                                  unknown    unknown                             

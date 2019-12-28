@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/shane/Documents/EAGLE/projects/arduinoATR/atrArduino.sch at 21/11/2019 17:00
+
+Qty Value          Device                  Package   Parts                          Description                                                                                                     PROD_ID    SF_ID     VALUE
+4                  CONN_02                 1X02      POLARA, POLARB, POLARC, POWER  Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                           
+4                  CONN_04PTH              1X04      NIXIEA, NIXIEB, NIXIEC, NIXIED Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections CONN-09696                
+3                  CONN_07                 1X07      CNC, CSA, CSB                  Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                           
+1   16MHz          CRYSTAL-16MHZPTH-HC49US HC49US    CLOCK                          16MHz Crystal                                                                                                   XTAL-08181 COM-00536 16MHz
+1   ATMEGA328V-10P ATMEGA328V-10P          DIL28-3   MCU                            MICROCONTROLLER                                                                                                                           
+1   G6C-1117P      G6C-1117P               G6C-1117P RELAY                          RELAY                                                                                                                                     

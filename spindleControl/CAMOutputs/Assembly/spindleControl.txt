@@ -1,0 +1,7 @@
+Partlist exported from C:/Users/shane/Documents/EAGLE/projects/Spindle-control/spindleControl.sch at 27/10/2019 00:31
+
+Qty Value         Device     Package Parts Description                                                                                                     PROD_ID    VALUE        
+1                 CONN_04PTH 1X04    J2    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections CONN-09696              
+1   1N821         1N821      DO35Z10 D1    Reference DIODE                                                                                                                         
+1   455-1750-1-ND CONN_03    1X03    J1    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections XXX-00000  455-1750-1-ND
+1   IRF530        IRF530     TO220BV Q1    HEXFET Power MOSFET                                                                                                                     
